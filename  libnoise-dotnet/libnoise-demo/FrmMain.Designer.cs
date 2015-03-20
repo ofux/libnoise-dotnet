@@ -1,4 +1,4 @@
-﻿namespace Graphics.Tools.Noise {
+﻿namespace UNoise.Graphics.Tools.Noise {
 	partial class FrmMain {
 		/// <summary>
 		/// Required designer variable.

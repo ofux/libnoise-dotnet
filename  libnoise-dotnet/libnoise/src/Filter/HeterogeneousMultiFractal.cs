@@ -19,7 +19,7 @@
 // The following code is based on Ken Musgrave's explanations and sample
 // source code in the book "Texturing and Modelling: A procedural approach"
 
-namespace Graphics.Tools.Noise.Filter {
+namespace UNoise.Graphics.Tools.Noise.Filter {
 
 	/// <summary>
 	/// Noise module that outputs 3-dimensional Heterogeneous-multifractal noise.

@@ -26,9 +26,9 @@
 //#define LIBNOISE_VERSION_1;
 #define LIBNOISE_VERSION_2
 
-using Graphics.Tools.Noise;
+using UNoise.Graphics.Tools.Noise;
 
-namespace Graphics.Tools.Noise.Primitive {
+namespace UNoise.Graphics.Tools.Noise.Primitive {
 
 	/// <summary>
 	/// A gradient noise generator. The Jason Bevins's Libnoise ported in c#

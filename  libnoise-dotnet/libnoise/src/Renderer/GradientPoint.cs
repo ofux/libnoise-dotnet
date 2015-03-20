@@ -18,7 +18,7 @@
 
 using System;
 
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
 	/// Defines a point used to build a color gradient.

@@ -15,7 +15,7 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-namespace Graphics.Tools.Noise.Modifier {
+namespace UNoise.Graphics.Tools.Noise.Modifier {
 
 	/// <summary>
 	/// Noise module that applies a scaling factor and a bias to the output

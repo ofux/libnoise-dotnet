@@ -15,7 +15,7 @@
 
 using System;
 
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
 	/// Interface for a portable color structure.

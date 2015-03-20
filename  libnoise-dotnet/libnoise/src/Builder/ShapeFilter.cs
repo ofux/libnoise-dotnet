@@ -13,9 +13,9 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with Libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 
-using Graphics.Tools.Noise.Renderer;
+using UNoise.Graphics.Tools.Noise.Renderer;
 
-namespace Graphics.Tools.Noise.Builder {
+namespace UNoise.Graphics.Tools.Noise.Builder {
 
 	/// <summary>
 	/// 

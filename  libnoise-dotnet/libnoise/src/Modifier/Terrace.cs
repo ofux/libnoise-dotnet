@@ -18,7 +18,7 @@
 using System;
 using System.Collections.Generic;
 
-namespace Graphics.Tools.Noise.Modifier {
+namespace UNoise.Graphics.Tools.Noise.Modifier {
 
 	/// <summary>
 	/// Noise module that maps the output value from a source module onto a

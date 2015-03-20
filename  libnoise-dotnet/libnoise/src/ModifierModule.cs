@@ -17,7 +17,7 @@
 
 using System;
 
-namespace Graphics.Tools.Noise {
+namespace UNoise.Graphics.Tools.Noise {
 
 	/// <summary>
 	/// Base class for source module modifiers

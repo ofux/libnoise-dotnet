@@ -13,10 +13,10 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 
-using Graphics.Tools.Noise;
+using UNoise.Graphics.Tools.Noise;
 using System;
 
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
 	/// class for an 16bit-heightmap renderer

@@ -13,9 +13,9 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 
-using Graphics.Tools.Noise.Utils;
+using UNoise.Graphics.Tools.Noise.Utils;
 
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
 	/// Implements a 16 bits Heightmap, a 2-dimensional array of unsigned short values (0 to 65 535)

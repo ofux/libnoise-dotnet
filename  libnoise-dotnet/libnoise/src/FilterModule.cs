@@ -13,7 +13,7 @@
 // You should have received a copy of the GNU Lesser General Public License
 // along with libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 
-namespace Graphics.Tools.Noise {
+namespace UNoise.Graphics.Tools.Noise {
 
 	/// <summary>
 	/// Base class for all filter module

@@ -20,7 +20,7 @@
 // From Karsten Schmidt (slight optimizations & restructuring)
 
 using System;
-namespace Graphics.Tools.Noise.Primitive {
+namespace UNoise.Graphics.Tools.Noise.Primitive {
 
 	/// <summary>
 	/// Noise module that outputs 3-dimensional Simplex Perlin noise.

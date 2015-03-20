@@ -14,7 +14,7 @@
 // along with Libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 
 
-namespace Graphics.Tools.Noise.Builder {
+namespace UNoise.Graphics.Tools.Noise.Builder {
 
 	/// <summary>
 	/// ConstantOutput : caller should use Constant property

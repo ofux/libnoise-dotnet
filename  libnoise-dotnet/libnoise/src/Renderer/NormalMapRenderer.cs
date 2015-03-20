@@ -17,7 +17,7 @@
 
 
 using System;
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
     /// Renders a normal map from a noise map.

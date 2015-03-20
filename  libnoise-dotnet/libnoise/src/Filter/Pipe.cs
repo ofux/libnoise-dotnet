@@ -14,7 +14,7 @@
 // along with libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 // 
 
-namespace Graphics.Tools.Noise.Filter {
+namespace UNoise.Graphics.Tools.Noise.Filter {
 
 	/// <summary>
 	/// Noise module that outputs the input source value without modification.

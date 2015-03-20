@@ -16,7 +16,7 @@
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
 
-namespace Graphics.Tools.Noise.Filter {
+namespace UNoise.Graphics.Tools.Noise.Filter {
 
 	/// <summary>
 	/// Noise module that outputs Voronoi cells.

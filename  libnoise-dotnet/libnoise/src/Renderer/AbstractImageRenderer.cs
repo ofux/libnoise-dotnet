@@ -15,9 +15,9 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-using Graphics.Tools.Noise;
+using UNoise.Graphics.Tools.Noise;
 
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
 	/// Abstract base class for an image renderer

@@ -18,7 +18,7 @@
 
 using System;
 
-namespace Graphics.Tools.Noise.Modifier {
+namespace UNoise.Graphics.Tools.Noise.Modifier {
 
 	/// <summary>
 	/// This structure defines a control point.

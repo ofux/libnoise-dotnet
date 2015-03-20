@@ -15,9 +15,9 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-using Graphics.Tools.Noise.Filter;
+using UNoise.Graphics.Tools.Noise.Filter;
 
-namespace Graphics.Tools.Noise.Tranformer {
+namespace UNoise.Graphics.Tools.Noise.Tranformer {
 
 	/// <summary>
 	/// Noise module that randomly displaces the input value before

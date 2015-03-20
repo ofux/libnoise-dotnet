@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Graphics.Tools.Noise.Properties {
+namespace UNoise.Graphics.Tools.Noise.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

@@ -15,7 +15,7 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-namespace Graphics.Tools.Noise.Modifier {
+namespace UNoise.Graphics.Tools.Noise.Modifier {
 
 	/// <summary>
 	/// Noise module that maps the output value from a source module onto an

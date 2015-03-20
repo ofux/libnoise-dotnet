@@ -16,9 +16,9 @@
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
 using System;
-using Graphics.Tools.Noise.Model;
+using UNoise.Graphics.Tools.Noise.Model;
 
-namespace Graphics.Tools.Noise.Builder {
+namespace UNoise.Graphics.Tools.Noise.Builder {
 
 	/// <summary>
 	/// Builds a spherical noise map.

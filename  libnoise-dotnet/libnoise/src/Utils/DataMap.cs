@@ -17,7 +17,7 @@
 
 
 using System;
-namespace Graphics.Tools.Noise.Utils {
+namespace UNoise.Graphics.Tools.Noise.Utils {
 
 	/// <summary>
 	/// Abstract base class for a map of data, a 2-dimensional array of data, 

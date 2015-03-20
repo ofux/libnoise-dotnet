@@ -19,15 +19,15 @@ using System.Drawing.Imaging;
 using System.Windows.Forms;
 using System.Globalization;
 
-using Graphics.Tools.Noise.Primitive;
-using Graphics.Tools.Noise.Filter;
-using Graphics.Tools.Noise.Builder;
-using Graphics.Tools.Noise.Renderer;
-using Graphics.Tools.Noise.Modifier;
-using Graphics.Tools.Noise.Writer;
-using Graphics.Tools.Noise.Ext.Dotnet;
+using UNoise.Graphics.Tools.Noise.Primitive;
+using UNoise.Graphics.Tools.Noise.Filter;
+using UNoise.Graphics.Tools.Noise.Builder;
+using UNoise.Graphics.Tools.Noise.Renderer;
+using UNoise.Graphics.Tools.Noise.Modifier;
+using UNoise.Graphics.Tools.Noise.Writer;
+using UNoise.Graphics.Tools.Noise.Ext.Dotnet;
 
-namespace Graphics.Tools.Noise {
+namespace UNoise.Graphics.Tools.Noise {
 
 	public partial class FrmMain :Form {
 
@@ -422,7 +422,7 @@ namespace Graphics.Tools.Noise {
 			//renderer.LightEnabled = true;
 			
 			// Libnoise image struct strategy
-			//Graphics.Tools.Noise.Renderer.Image image = new Graphics.Tools.Noise.Renderer.Image();
+			//UNoise.Graphics.Tools.Noise.Renderer.Image image = new UNoise.Graphics.Tools.Noise.Renderer.Image();
 			//renderer.Image = image;
 
 			// Dotnet Bitmap Strategy

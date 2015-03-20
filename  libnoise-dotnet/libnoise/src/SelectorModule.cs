@@ -16,7 +16,7 @@
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
 
-namespace Graphics.Tools.Noise {
+namespace UNoise.Graphics.Tools.Noise {
 
 	/// <summary>
 	/// Base class for all selector modules

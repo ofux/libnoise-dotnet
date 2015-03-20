@@ -18,9 +18,9 @@
 
 using System;
 using System.IO;
-using Graphics.Tools.Noise.Renderer;
+using UNoise.Graphics.Tools.Noise.Renderer;
 
-namespace Graphics.Tools.Noise.Writer {
+namespace UNoise.Graphics.Tools.Noise.Writer {
 
 	/// <summary>
 	/// Heightmap writer class, raw format.

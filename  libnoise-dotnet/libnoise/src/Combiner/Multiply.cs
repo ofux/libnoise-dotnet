@@ -15,7 +15,7 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-namespace Graphics.Tools.Noise.Combiner {
+namespace UNoise.Graphics.Tools.Noise.Combiner {
 
 	/// <summary>
 	/// Noise module that outputs the product of the two output values from

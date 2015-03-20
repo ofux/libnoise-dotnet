@@ -15,7 +15,7 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-namespace Graphics.Tools.Noise.Model {
+namespace UNoise.Graphics.Tools.Noise.Model {
 
 	/// <summary>
 	/// Model that defines the surface of a plane.

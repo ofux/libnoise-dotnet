@@ -14,11 +14,11 @@
 // along with libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 
 using System.Drawing;
-using NoiseNS = Graphics.Tools.Noise.Renderer;
+using NoiseNS = UNoise.Graphics.Tools.Noise.Renderer;
 using System.Drawing.Imaging;
 using System;
 
-namespace Graphics.Tools.Noise.Ext.Dotnet {
+namespace UNoise.Graphics.Tools.Noise.Ext.Dotnet {
 
 	/// <summary>
 	/// Implements an image, a 2-dimensional array of color values.

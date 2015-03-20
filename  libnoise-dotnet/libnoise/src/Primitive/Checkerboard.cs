@@ -15,7 +15,7 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-namespace Graphics.Tools.Noise.Primitive {
+namespace UNoise.Graphics.Tools.Noise.Primitive {
 
 	/// <summary>
 	/// Noise module that outputs a checkerboard pattern.

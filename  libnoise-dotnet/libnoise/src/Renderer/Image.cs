@@ -15,9 +15,9 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-using Graphics.Tools.Noise.Utils;
+using UNoise.Graphics.Tools.Noise.Utils;
 
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
 	/// Implements an image, a 2-dimensional array of color values.

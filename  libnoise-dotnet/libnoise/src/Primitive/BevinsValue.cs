@@ -26,9 +26,9 @@
 //#define LIBNOISE_VERSION_1;
 #define LIBNOISE_VERSION_2
 
-using Graphics.Tools.Noise;
+using UNoise.Graphics.Tools.Noise;
 
-namespace Graphics.Tools.Noise.Primitive {
+namespace UNoise.Graphics.Tools.Noise.Primitive {
 
 	/// <summary>
 	/// Base class for all value noise generator module

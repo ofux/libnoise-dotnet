@@ -16,9 +16,9 @@
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
 using System;
-using Graphics.Tools.Noise;
+using UNoise.Graphics.Tools.Noise;
 
-namespace Graphics.Tools.Noise.Builder {
+namespace UNoise.Graphics.Tools.Noise.Builder {
 
 	/// A delegate to a callback function used by the NoiseMapBuilder class.
     ///

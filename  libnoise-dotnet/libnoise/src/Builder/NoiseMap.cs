@@ -14,9 +14,9 @@
 // along with libnoise-dotnet.  If not, see <http://www.gnu.org/licenses/>.
 
 using System;
-using Graphics.Tools.Noise.Utils;
+using UNoise.Graphics.Tools.Noise.Utils;
 
-namespace Graphics.Tools.Noise.Builder {
+namespace UNoise.Graphics.Tools.Noise.Builder {
 
 	/// <summary>
 	/// Implements a noise map, a 2-dimensional array of floating-point values.

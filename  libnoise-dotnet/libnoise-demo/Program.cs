@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Graphics.Tools.Noise {
+namespace UNoise.Graphics.Tools.Noise {
 
 	static class Program {
 		/// <summary>

@@ -15,7 +15,7 @@
 // 
 // From the original Jason Bevins's Libnoise (http://libnoise.sourceforge.net)
 
-namespace Graphics.Tools.Noise.Tranformer {
+namespace UNoise.Graphics.Tools.Noise.Tranformer {
 
 	/// <summary>
     /// Noise module that rotates the input value around the origin before

@@ -17,9 +17,9 @@
 
 
 using System;
-using Graphics.Tools.Noise.Builder;
+using UNoise.Graphics.Tools.Noise.Builder;
 
-namespace Graphics.Tools.Noise.Renderer {
+namespace UNoise.Graphics.Tools.Noise.Renderer {
 
 	/// <summary>
 	/// Implements a 32 bits Heightmap, a 2-dimensional array of float values (+-1.5 x 10^−45 to +-3.4 x 10^38)
